@@ -1,7 +1,9 @@
+import Hook1 from "./companents/hook/Hook1";
+
 function App(){
     return(
         <>
-            <div>hello</div>
+            <Hook1/>
         </>
     )
 }
